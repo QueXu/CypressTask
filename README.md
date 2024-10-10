@@ -8,7 +8,7 @@
 ## Installation:
 1. Clone the repository:
    git clone https://github.com/QueXu/CypressTask.git
-2. Navigate to the project directoryЖ
+2. Navigate to the project directory:
    cd CypressTask
 3. Install dependencies:
    npm install
