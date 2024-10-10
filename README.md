@@ -1,10 +1,10 @@
 # CypressTask
 
-## Requiments:
+## Requirements:
 -Node.js (12.x or newer)
 -npm
 
-## Instalation:
+## Installation:
 1. Clone the repository:
    git clone https://github.com/QueXu/CypressTask.git
 2. Navigate to the project directoryЖ
@@ -23,9 +23,13 @@ To run the tests, use one of the following commands:
 
 ## Project Structure
 cypress/: Main folder for tests, including:
+  
   fixtures/: Files with data for testing.
+  
   integration/: Main test files.
+  
   support/: Helper commands and setup.
+  
   cypress.json: Cypress configuration file.
 
 ## Writing New Tests
