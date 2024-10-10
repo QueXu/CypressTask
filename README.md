@@ -24,13 +24,13 @@ To run the tests, use one of the following commands:
 ## Project Structure
 cypress/: Main folder for tests, including:
   
-  fixtures/: Files with data for testing.
+     fixtures/: Files with data for testing.
   
-  integration/: Main test files.
+     integration/: Main test files.
   
-  support/: Helper commands and setup.
+     support/: Helper commands and setup.
   
-  cypress.json: Cypress configuration file.
+     cypress.json: Cypress configuration file.
 
 ## Writing New Tests
 To write new tests, simply add a new file in the integration folder and follow existing examples for the structure of the tests. 
