@@ -2,6 +2,7 @@
 
 ## Requirements:
 -Node.js (12.x or newer)
+
 -npm
 
 ## Installation:
